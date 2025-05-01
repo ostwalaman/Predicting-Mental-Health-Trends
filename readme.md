@@ -1,6 +1,6 @@
-# Reddit Mental Health Discussions EDA
+# Reddit Mental Health Discussions
 
-This project contains an exploratory data analysis (EDA) notebook that analyzes Reddit posts related to mental health. The analysis was originally developed in Google Colab and covers various aspects such as data cleaning, text processing, visualization, and n-gram analysis.
+This project focuses on analyzing Reddit posts related to mental health. Initially developed in Google Colab, the workflow includes comprehensive steps such as data cleaning, text preprocessing, and visualization to uncover patterns and insights. Advanced techniques like n-gram analysis are used to explore linguistic trends. In addition to EDA, the project implements a machine learning model to classify potential mental health disorders and generate a sentiment severity score, providing a quantitative measure of emotional intensity expressed in the posts.
 
 ## Table of Contents
 
